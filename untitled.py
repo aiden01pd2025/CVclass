@@ -1,1 +1,1 @@
-print("lmao")
+print("LMAO, this is so good")
